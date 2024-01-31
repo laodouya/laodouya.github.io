@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on My Blog</title>
+    <link>https://laodouya.com/about/</link>
+    <description>Recent content in Abouts on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 01 Feb 2024 00:28:33 +0800</lastBuildDate>
+    <atom:link href="https://laodouya.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://laodouya.com/about/resume/</link>
+      <pubDate>Thu, 01 Feb 2024 00:28:33 +0800</pubDate>
+      <guid>https://laodouya.com/about/resume/</guid>
+      <description>徐 进 job@laodouya.com&#xA;教育情况： 北京交通大学 软件工程 硕士 2011年9月至2014年3月 北京航空航天大学 软件工程 本科 2007年9月至2011年7月 实习经历： 百度 互联网数据研发部 2013年4月至2013年9月&#xA;独立开发并维护Microdata+schema解析器模块 (C语言) 根据w3c的Microdata结构化数据格式标准，以及Google、Yahoo、Bing共同推广的schema.org数据词汇表，设计并开发schema解析模块。并根据实际情况和分析预期结果完善解析算法。 通过此模块封装的解析程序，扫描百度网页库中的网页缓存，将schema结构化信息抽出，供百度大搜索结果展现的优化。 开发自动解析schema数据的服务，接收上游spider推来的页面，解析schema数据后，将不同类别的数据分发给各个下游。 根据需求补充schema标准词汇表 熟练掌握schema.org数据词汇表体系，对于不能满足国内站点实际需求的情况，补充合适的类型和属性。并将此补充标准推给各大站点，以供其依照标准添加相应的结构化数据字段标注。 开发schema站长检查工具后端程序(C语言) 通过封装schema解析模块，添加字段正确性检查、重复检查和必选检查等功能，生成后端解析+查错程序，提供给站长平台添加前端交互，供站长自查页面的schema数据。 新浪微博 Windows Phone 7客户端 2011年4月至2011年6月&#xA;根据新浪微博Windows Phone 7客户端的产品设计，编码实现软件各个页面以及功能。客户端采用MVVM开发模式(Model-View-ViewModel)。主要参与View页面端的功能实现(Silverlight/XAML)和ViewModel的数据绑定接口(C#) ####在校项目经验：#### 《追影》——基于颜色跟踪的皮影模拟系统 2009年10月至2010年10月&#xA;本项目通过摄像头检测两支色彩鲜明的记号笔的移动数据，识别并操作转化为皮影的动作。让用户通过计算机模拟操作皮影戏。达到了解皮影，爱好皮影的效果，从而推广、保存这项文化遗产 团队一共有5人，本人负责编写前台界面(WPF)，将美工队员制作的皮影人物和场景转换为软件组件 2010年10月参加微软研究院Innovation Day技术展示 2010年申请到国家大学生科研训练计划(SRTP)，获得9000元国家经费 北京航空航天大学第三届编程PK赛技术支持 2009年5月至2009年6月&#xA;本届编程PK赛平台搭建在暴雪的Warcraft3游戏之上，通过封装暴雪的JASS语言代码，构建出自己的API体系，让选手使用这些API编写AI代码，控制英雄的操作以及对抗策略，在指定地图中与其他选手一争高下 我负责搭建、测试编程PK赛平台，封装API函数，指导选手快速入门JASS编程脚本，参与活动的策划、规则制定 ####技能技术：#### 熟悉C、PHP语言 熟悉Linux Vim编程 了解Python、JavaScript语言 获得大学英语六级证书 ####获奖情况：#### 2010年5月 第20届北京航空航天大学冯如杯学生科技竞赛二等奖 2010年8月 《追影》项目获微软精英大挑战全国第二名 2010年12月 北京航空航天大学软件学院创新科技奖学金二等奖 ####社会活动：#### 在校期间加入微软技术俱乐部、轮滑社、游泳协会等社团 2008年策划组织“对话微软”第二期讲座 2008年北京奥运会志愿者 ####自我评价：#### 乐于与人沟通，性格开朗，喜欢接触新鲜事物，痴迷于电子产品。</description>
+    </item>
+  </channel>
+</rss>

@@ -1,19 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-    <url>
-        <loc>http://laodouya.github.io/</loc>
-        <lastmod>2014-06-05T23:24:07+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://laodouya.github.io/blog/archives/</loc>
-        <lastmod>2014-06-05T23:24:07+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://laodouya.github.io/robots.txt</loc>
-        <lastmod>2014-06-05T23:24:07+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://laodouya.github.io/about/</loc>
-        <lastmod>2014-06-06T07:27:30+08:00</lastmod>
-    </url>
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://laodouya.com/about/</loc><lastmod>2024-02-01T00:28:33&#43;08:00</lastmod></url><url>
+            <loc>https://laodouya.com/</loc><lastmod>2024-02-01T00:28:33&#43;08:00</lastmod></url><url>
+            <loc>https://laodouya.com/about/resume/</loc><lastmod>2024-02-01T00:28:33&#43;08:00</lastmod></url><url>
+            <loc>https://laodouya.com/categories/</loc></url><url>
+            <loc>https://laodouya.com/tags/</loc></url></urlset>
