@@ -1,0 +1,4 @@
+baseURL = 'https://laodouya.com/'
+languageCode = 'zh-cn'
+title = 'My Blog'
+theme = 'LoveIt'
